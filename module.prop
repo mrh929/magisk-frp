@@ -1,0 +1,6 @@
+id=magisk-frp
+name=MagiskFrp
+version=0.36.2
+versionCode=0362
+author=mrh929
+description=Run frp when system starts.
